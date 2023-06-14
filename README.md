@@ -8,7 +8,7 @@
  <div align=center>
     <img src="asset/ngau-detail.svg" width="350" margin-right='1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/muangau107">
-        <img width='400px'  src="asset/cat.gif" />
+        <img width='350px'  src="asset/cat.gif" />
      </a>
 </div>
 <!--
