@@ -6,7 +6,7 @@
 <img align="left" src="https://img.shields.io/github/followers/muangau107?label=Follow&style=social" />
 <!--Detail-->
  <div align=center>
-    <img src="asset/ngau-detail.svg" width="350" margin-right='1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="asset/ngau-detail.svg" width="350px" margin-right='1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/muangau107">
         <img width='350px'  src="asset/cat.gif" />
      </a>
@@ -49,7 +49,6 @@
 <a href="https://instagram.com/muangau107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muangau107" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/muangau107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muangau107" height="30" width="40" /></a>
 </p>
-<br/><br/>
 <!--Languages and Tools-->
 <h2 align="left">💻 Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
