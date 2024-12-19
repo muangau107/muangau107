@@ -1,52 +1,32 @@
 <!--Welcome-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=DA4BA0&vCenter=true&width=500&lines=Welcome+to+my+Github+profile!;Hi+%F0%9F%91%8B%2C+I'm+M%C6%B0a+Ng%C3%A2u;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
-<div align=center>
-    <a href="https://github.com/muangau107">
-        <img  src="asset/ngauit.gif" />
-     </a>
-</div>
-<!--Detail-->
- <div align=center>
-
-<table width="100%" align="center">
-<tr>
-<td vertical-align= "top">
-<!--Profile view-->
+ <div align=left>
+ <!--Profile view-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muangau107&label=Profile%20views&color=9e0c66&style=flat" alt="muangau107" /> </p>
 <!--Follow-->
 <img align="left" src="https://img.shields.io/github/followers/muangau107?label=Follow&style=social" />
-</td>
+</div>
+ <div align=center>
+<!--Detail-->
+    <img src="asset/ngau-detail.svg" width="400px" >
+</div>
 
-<td align="center" >
-    <img src="asset/ngau-detail.svg" width="350px" margin-right='1'>
-</td>
-</tr>
-</table>
 <!-- Social -->
  <div align=center>
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="">
-<br />
-<p>
 <img  src="asset/mylife.gif">
-</a>
-</p>
 </td>
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=TbLT12eg-lw">
-<br />
-<p>
 <img alt="Music" src="asset/ngaudj.gif"> 
 </a>
-</p>
 </td>
 </tr>
-</table>
-     
+</table>   
 </div>
 
 <!--
@@ -61,24 +41,14 @@
 -->
 
 <!--A little more about me-->
-<div align=left>
 ## A little more about [me...](https://github.com/muangau107)
 
 - [x] 🔭 Right now, I'm working as a Software Engineer in Vietname
 - [x] 🌱 Always learning something new...
 - [x] 👀 I’m interested in programming, data and security
 - [x] 📫 How to reach me **[email](mailto:muangau107@gmail.com)**  🌸 🌸 🌸 🌸 🌸 🌸 🌸
-</div>
-<!--
-```yaml
-{
-  "code": ["C++", "C#", "HTML", "CSS", "JavaScript"],
-  "database": ["SQL", "mysql", "SQLite", "PostgreSQL"],
-  "ide": ["vs code", 'Visual Studio'],                     
-  "others": ["HTML5", "CSS3", "Github"]
-}
-```
--->
+
+
 <!--Connect with me-->
 <h2 align="left">🌐 Connect with me:</h2>
 
