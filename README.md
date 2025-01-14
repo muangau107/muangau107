@@ -13,21 +13,27 @@
 </div>
 
 <!-- Social -->
- <div align=center>
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<img  src="asset/mylife.gif">
-</td>
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=TbLT12eg-lw">
-<img alt="Music" src="asset/ngaudj.gif"> 
-</a>
-</td>
-</tr>
-</table>   
+<div align="center">
+    <table width="100%" align="center" border="1">
+        <tr>
+            <td align="center" rowspan="2">
+                <img src="asset/horse.png">
+            </td>
+            <td align="center">
+                <a href="https://www.youtube.com/watch?v=TbLT12eg-lw">
+                    <img alt="Music" src="asset/ngaudj.gif"> 
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="2">
+                <img src="asset/anhdong.gif">
+            </td>
+        </tr>
+    </table>   
 </div>
+
+
 
 <!--
 -  💻 I’m currently working on ...
